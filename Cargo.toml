@@ -1,6 +1,7 @@
 [package]
-name = "PiPub-scanner"
+name = "pi_pub_scanner"
 version = "0.1.0"
 authors = ["Sille Van Landschoot <info@sillevl.be>"]
 
 [dependencies]
+mqtt3 = "0.1.4"
